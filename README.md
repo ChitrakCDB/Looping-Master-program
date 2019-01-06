@@ -24,7 +24,7 @@ Round() and ceil() functions to round up the value
 For ex: the value is 4.5 it'll be considered as 4.
 
 After this I've used for loops to print the outer elements of the matrix
-And count is initially 1 and will gradually increase when the looos and the conditions is satisfied and increment operators starts working
+And count is initially 1 and will gradually increase when the loops and the conditions is satisfied and increment operators starts working
 
 
 
