@@ -49,3 +49,9 @@ This function returns nearest integer
 value which is greater than or equal
 to the argument passed to this function
 
+Note: The include_master prog is the word file for the same program given in
+N * N spiral matrix
+
+
+Thank you! 
+
